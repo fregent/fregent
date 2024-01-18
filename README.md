@@ -1,6 +1,6 @@
 ## Hi there, I'm Fred! ⭐
 ### Full-Stack Developer | [Le Wagon #1392](https://github.com/lewagon)
-I'm using Ruby on Rails 7 and looking forward to improve my skills. I'm also interested in learning Python and Node.js! 🤞 
+I'm using Ruby on Rails 7 and looking forward to improve my skills. I'm also interested in learning Python and React.js! 🤞 
 
 <!--
 **fregent/fregent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
